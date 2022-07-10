@@ -1,3 +1,6 @@
+Build debug version and get free pro edition
+
+
 # NetGuard
 
 *NetGuard* provides simple and advanced ways to block access to the internet - no root required.
